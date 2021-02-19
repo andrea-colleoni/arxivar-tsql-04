@@ -31,6 +31,7 @@
   - Securables
   - Data Control Language
   - Uso di schemi e sinonimi
+  - Linked servers
 - Manutenzione del database
   - Come funzione un RDMBS orientato alle transazioni
   - Il transaction log e la tipologia di database
@@ -45,3 +46,7 @@
   - Viste indicizzate
   - Studio dei piani di esecuzione di query T-SQL
   - Uso del profiler
+
+  ## Links
+
+  - [Guida di riferimento a T-SQL](https://docs.microsoft.com/it-it/sql/t-sql/language-reference?view=sql-server-ver15)
